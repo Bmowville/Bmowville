@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Bryan 👋
 
-<!--
-**Bmowville/Bmowville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build data products end-to-end, from ingestion and modeling to dashboards and reproducible analysis.
 
-Here are some ideas to get you started:
+## What I do
+- Data pipelines and analytics engineering (Python, SQL)
+- Machine learning workflows and evaluation
+- Dashboards and reporting that are easy to run and understand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Python • SQL • Pandas • Dash • Docker • Git
+
+## Currently building
+I’m shipping a small set of repos focused on pipeline projects, ML experiments, and dashboards with clear documentation and reproducible steps.
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/bryan-mowrey/
