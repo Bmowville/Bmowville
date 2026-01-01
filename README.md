@@ -11,7 +11,11 @@ I build data products end-to-end, from ingestion and modeling to dashboards and 
 Python • SQL • Pandas • Dash • Docker • Git
 
 ## Currently building
-I’m shipping a small set of repos focused on pipeline projects, ML experiments, and dashboards with clear documentation and reproducible steps.
+I’m shipping a small set of repositories focused on pipeline projects, ML experiments, and dashboards, all with clear documentation and reproducible steps.
 
+## Projects
+- **Data Engineering Lab** — practical pipelines in Python + SQL (SQLite), with reproducible outputs  
+  Repo: https://github.com/Bmowville/data-engineering-lab
+  
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/bryan-mowrey/
