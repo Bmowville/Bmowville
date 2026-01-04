@@ -20,6 +20,7 @@ I’m shipping a small set of repositories focused on pipeline projects, ML expe
   
 - **Mini SQL Challenges** — Short SQL case studies (SQLite/Postgres style): cleaning, aggregation, window functions, and analytics
   
-  Repo: https://github.com/Bmowville/data-engineering-lab  
+  Repo: https://github.com/Bmowville/sql-mini-challenges
+   
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/bryan-mowrey/
