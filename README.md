@@ -14,11 +14,12 @@ Python • SQL • Pandas • Dash • Docker • Git
 I’m shipping a small set of repositories focused on pipeline projects, ML experiments, and dashboards, all with clear documentation and reproducible steps.
 
 ## Projects
-- **Data Engineering Lab** — practical pipelines in Python + SQL (SQLite), with reproducible outputs  
+- **Data Engineering Lab** — practical pipelines in Python + SQL (SQLite), with reproducible outputs
+  
   Repo: https://github.com/Bmowville/data-engineering-lab
   
-- **Mini SQL Challenges** — 
-  Repo: https://github.com/Bmowville/sql-mini-challenges
+- **Mini SQL Challenges** — Short SQL case studies (SQLite/Postgres style): cleaning, aggregation, window functions, and analytics
   
+  Repo: https://github.com/Bmowville/data-engineering-lab  
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/bryan-mowrey/
