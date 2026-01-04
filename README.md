@@ -16,6 +16,8 @@ I’m shipping a small set of repositories focused on pipeline projects, ML expe
 ## Projects
 - **Data Engineering Lab** — practical pipelines in Python + SQL (SQLite), with reproducible outputs  
   Repo: https://github.com/Bmowville/data-engineering-lab
+  
+- **Mini SQL Challenges**
   Repo: https://github.com/Bmowville/sql-mini-challenges
   
 ## Contact
