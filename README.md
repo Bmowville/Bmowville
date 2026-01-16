@@ -1,26 +1,35 @@
-# Hi, I'm Bryan 👋
+# Hi, I’m Bryan 👋
 
-I build data products end-to-end, from ingestion and modeling to dashboards and reproducible analysis.
+I build end-to-end data + software projects — pipelines, APIs, dashboards, and full-stack apps — with clean docs so anyone can run them.
 
-## What I do
-- Data pipelines and analytics engineering (Python, SQL)
-- Machine learning workflows and evaluation
-- Dashboards and reporting that are easy to run and understand
+## What I’m focused on
+- Data engineering: ingestion → modeling → reliable outputs (Python, SQL, SQLite/Postgres patterns)
+- Full-stack buildouts for portfolio-ready demos (Next.js, TypeScript)
+- Testing and reproducible workflows (Vitest, Playwright, CI-friendly structure)
 
-## Tech
-Python • SQL • Pandas • Dash • Docker • Git
+## Tech I use a lot
+Python • SQL • Pandas • TypeScript • Next.js • Prisma • SQLite • Docker • Git
 
-## Currently building
-I’m shipping a small set of repositories focused on pipeline projects, ML experiments, and dashboards, all with clear documentation and reproducible steps.
+## Featured projects
+### **SignalBoard (flow)** — Full-stack Next.js demo app
+A recruiter-ready productivity cockpit with a real DB layer (SQLite + Prisma), interactive UI, and tests.
+- Workspaces + user preferences persisted
+- Tasks CRUD + activity logging
+- Integrations connect/disconnect states
+- Unit + E2E testing setup
 
-## Projects
-- **Data Engineering Lab** — practical pipelines in Python + SQL (SQLite), with reproducible outputs
-  
-  Repo: https://github.com/Bmowville/data-engineering-lab
-  
-- **Mini SQL Challenges** — Short SQL case studies (SQLite/Postgres style): cleaning, aggregation, window functions, and analytics
-  
-  Repo: https://github.com/Bmowville/sql-mini-challenges
-   
+Repo: https://github.com/Bmowville/flow
+
+### **Data Engineering Lab**
+Practical pipeline projects in Python + SQL with reproducible steps and outputs.
+
+Repo: https://github.com/Bmowville/data-engineering-lab
+
+### **Mini SQL Challenges**
+Short SQL case studies (SQLite/Postgres style): cleaning, aggregation, window functions, and analytics patterns.
+
+Repo: https://github.com/Bmowville/sql-mini-challenges
+
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/bryan-mowrey/
+LinkedIn: https://www.linkedin.com/in/bryan-mowrey/
+
