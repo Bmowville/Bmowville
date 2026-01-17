@@ -8,17 +8,24 @@ I build end-to-end data + software projects — pipelines, APIs, dashboards, and
 - Testing and reproducible workflows (Vitest, Playwright, CI-friendly structure)
 
 ## Tech I use a lot
-Python • SQL • Pandas • TypeScript • Next.js • Prisma • SQLite • Docker • Git
+Python • SQL • Pandas • TypeScript • Next.js • Prisma • SQLite • Postgres • Docker • Git
 
 ## Featured projects
 ### **SignalBoard (flow)** — Full-stack Next.js demo app
-A recruiter-ready productivity cockpit with a real DB layer (SQLite + Prisma), interactive UI, and tests.
+A recruiter-ready productivity cockpit with a real DB layer (SQLite locally, Postgres on Vercel), interactive UI, and tests.
 - Workspaces + user preferences persisted
 - Tasks CRUD + activity logging
 - Integrations connect/disconnect states
 - Unit + E2E testing setup
 
+Live demo: https://flow-azure-beta.vercel.app  
 Repo: https://github.com/Bmowville/flow
+
+**Quick start (local):**
+```bash
+git clone https://github.com/Bmowville/flow && cd flow
+npm install && npm run dev
+```
 
 ### **Data Engineering Lab**
 Practical pipeline projects in Python + SQL with reproducible steps and outputs.
@@ -32,4 +39,3 @@ Repo: https://github.com/Bmowville/sql-mini-challenges
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/bryan-mowrey/
-
