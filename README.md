@@ -1,41 +1,27 @@
-# Hi, I’m Bryan
+# Bryan Mowrey
 
-I build end-to-end data + software projects — pipelines, APIs, dashboards, and full-stack apps — with clean docs so anyone can run them.
+I build data engineering and full-stack software projects with an emphasis on reproducible workflows, readable SQL, and clear project documentation.
 
-## What I’m focused on
-- Data engineering: ingestion → modeling → reliable outputs (Python, SQL, SQLite/Postgres patterns)
-- Full-stack applications with production-style workflows (Next.js, TypeScript)
-- Testing and reproducible workflows (Vitest, Playwright, CI-friendly structure)
+## Focus Areas
+- Data engineering: ingestion, cleaning, SQLite/Postgres loading, and report outputs
+- Analytics engineering: cohort analysis, retention, window functions, and growth metrics
+- Full-stack applications: Next.js, TypeScript, Prisma, authentication, and CI-backed deployment
+- Reproducibility: setup steps, validation workflows, and runnable local examples
 
-## Tech I use a lot
-Python • SQL • Pandas • TypeScript • Next.js • Prisma • SQLite • Postgres • Docker • Git
+## Featured Projects
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [SQL Mini Challenges](https://github.com/Bmowville/sql-mini-challenges) | 37 runnable SQL analytics cases with validation CI and learning paths | SQL, SQLite, analytics patterns |
+| [Data Engineering Lab](https://github.com/Bmowville/data-engineering-lab) | Python pipelines that ingest data, load SQLite, and write report outputs | Python, pandas, SQL, SQLite |
+| [SignalBoard](https://github.com/Bmowville/flow) | Full-stack productivity dashboard with auth, database models, tests, and a live deployment | Next.js, TypeScript, Prisma, NextAuth, Vercel |
 
-## Featured projects
-### **SignalBoard (flow)** — Full-stack Next.js application
-A workflow dashboard with a real DB layer (SQLite locally, Postgres on Vercel), interactive UI, and tests.
-- Workspaces + user preferences persisted
-- Tasks CRUD + activity logging
-- Integrations connect/disconnect states
-- Unit + E2E testing setup
+## Start Here
+1. Practice SQL analytics patterns: [sql-mini-challenges](https://github.com/Bmowville/sql-mini-challenges)
+2. Review reproducible Python pipelines: [data-engineering-lab](https://github.com/Bmowville/data-engineering-lab)
+3. Open the full-stack demo: [SignalBoard live deployment](https://flow-azure-beta.vercel.app)
 
-Live demo: https://flow-azure-beta.vercel.app  
-Repo: https://github.com/Bmowville/flow
-
-**Quick start (local):**
-```bash
-git clone https://github.com/Bmowville/flow && cd flow
-npm install && npm run dev
-```
-
-### **Data Engineering Lab**
-Practical pipeline projects in Python + SQL with reproducible steps and outputs.
-
-Repo: https://github.com/Bmowville/data-engineering-lab
-
-### **Mini SQL Challenges**
-Short SQL case studies (SQLite/Postgres style): cleaning, aggregation, window functions, and analytics patterns.
-
-Repo: https://github.com/Bmowville/sql-mini-challenges
+## Tools I Use Often
+Python | SQL | pandas | TypeScript | Next.js | Prisma | SQLite | Postgres | Docker | GitHub Actions
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/bryan-mowrey/
