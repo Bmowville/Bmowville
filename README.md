@@ -1,18 +1,18 @@
-# Hi, I’m Bryan 👋
+# Hi, I’m Bryan
 
 I build end-to-end data + software projects — pipelines, APIs, dashboards, and full-stack apps — with clean docs so anyone can run them.
 
 ## What I’m focused on
 - Data engineering: ingestion → modeling → reliable outputs (Python, SQL, SQLite/Postgres patterns)
-- Full-stack buildouts for portfolio-ready demos (Next.js, TypeScript)
+- Full-stack applications with production-style workflows (Next.js, TypeScript)
 - Testing and reproducible workflows (Vitest, Playwright, CI-friendly structure)
 
 ## Tech I use a lot
 Python • SQL • Pandas • TypeScript • Next.js • Prisma • SQLite • Postgres • Docker • Git
 
 ## Featured projects
-### **SignalBoard (flow)** — Full-stack Next.js demo app
-A recruiter-ready productivity cockpit with a real DB layer (SQLite locally, Postgres on Vercel), interactive UI, and tests.
+### **SignalBoard (flow)** — Full-stack Next.js application
+A workflow dashboard with a real DB layer (SQLite locally, Postgres on Vercel), interactive UI, and tests.
 - Workspaces + user preferences persisted
 - Tasks CRUD + activity logging
 - Integrations connect/disconnect states
