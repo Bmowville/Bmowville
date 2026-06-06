@@ -12,7 +12,7 @@ Software projects focused on data workflows, SQL analytics, Python APIs, and ful
 ## Featured Projects
 | Project | Scope | Stack |
 | --- | --- | --- |
-| [SQL Mini Challenges](https://bmowville.github.io/sql-mini-challenges/) | 37 runnable SQL analytics cases with validation CI and learning paths | SQL, SQLite, analytics patterns |
+| [SQL Mini Challenges](https://bmowville.github.io/sql-mini-challenges/) | 40 runnable SQL analytics cases with validation CI and learning paths | SQL, SQLite, analytics patterns |
 | [Data Engineering Lab](https://github.com/Bmowville/data-engineering-lab) | Python pipelines that ingest data, load SQLite, and write report outputs | Python, pandas, SQL, SQLite |
 | [DataOps Observability API](https://github.com/Bmowville/dataops-observability-api) | FastAPI service for tracking pipeline runs, quality checks, migrations, and service health | Python, FastAPI, SQLAlchemy, Alembic, pytest |
 | [SignalBoard](https://github.com/Bmowville/flow) | Full-stack productivity dashboard with auth, database models, tests, and a live deployment | Next.js, TypeScript, Prisma, NextAuth, Vercel |
