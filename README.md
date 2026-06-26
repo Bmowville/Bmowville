@@ -14,9 +14,9 @@ I build practical data and backend projects that are meant to be opened, run, an
 
 ### DataOps Observability API
 
-[Repository](https://github.com/Bmowville/dataops-observability-api) | [v0.2.0 release](https://github.com/Bmowville/dataops-observability-api/releases/tag/v0.2.0)
+[Repository](https://github.com/Bmowville/dataops-observability-api) | [v0.2.1 release](https://github.com/Bmowville/dataops-observability-api/releases/tag/v0.2.1)
 
-A FastAPI operations layer for pipeline run tracking, data quality checks, webhook alerts, alert delivery audit history, and a pipeline registry with owners, stale thresholds, and runbooks.
+A FastAPI operations layer for pipeline run tracking, data quality checks, webhook alerts, alert delivery audit history, Prometheus-style metrics, and a pipeline registry with owners, stale thresholds, and runbooks.
 
 ![DataOps Operations Dashboard](https://raw.githubusercontent.com/Bmowville/dataops-observability-api/main/docs/assets/dataops-dashboard.png)
 
@@ -35,7 +35,7 @@ A FastAPI operations layer for pipeline run tracking, data quality checks, webho
 
 ## Project Entry Points
 1. Practice SQL analytics patterns: [SQL Mini Challenges project site](https://bmowville.github.io/sql-mini-challenges/)
-2. Inspect a Python API product: [DataOps Observability API v0.2.0](https://github.com/Bmowville/dataops-observability-api/releases/tag/v0.2.0)
+2. Inspect a Python API product: [DataOps Observability API v0.2.1](https://github.com/Bmowville/dataops-observability-api/releases/tag/v0.2.1)
 3. Review reproducible Python pipelines: [data-engineering-lab](https://github.com/Bmowville/data-engineering-lab)
 4. Open the full-stack app: [SignalBoard live deployment](https://flow-azure-beta.vercel.app)
 
